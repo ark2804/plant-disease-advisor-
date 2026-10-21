@@ -1,0 +1,131 @@
+{
+  "mango": {
+    "Healthy": {
+      "cause": "No disease detected",
+      "pesticide": "None required",
+      "fertilizer": "Maintain routine balanced NPK (e.g. 10-10-10) schedule per tree age; add organic compost/farmyard manure annually",
+      "cultural_practice": "Continue regular monitoring, proper spacing, and irrigation scheduling",
+      "severity_note": "N/A"
+    },
+    "Anthracnose": {
+      "cause": "Fungal (Colletotrichum gloeosporioides)",
+      "pesticide": "Carbendazim 50% WP (1 g/L water) or Copper oxychloride (3 g/L) sprayed at 10-15 day intervals",
+      "fertilizer": "Balanced NPK with adequate potassium to strengthen tissue resistance; avoid excess nitrogen which promotes soft, susceptible growth",
+      "cultural_practice": "Prune and destroy infected twigs and fallen leaves; avoid overhead/sprinkler irrigation; improve canopy airflow",
+      "severity_note": "Repeat spray through flowering and fruit development stages, especially in humid weather"
+    },
+    "Bacterial Canker": {
+      "cause": "Bacterial (Xanthomonas campestris pv. mangiferaeindicae)",
+      "pesticide": "Copper-based bactericide (Copper oxychloride 3 g/L or Streptocycline 0.5 g/L) sprayed every 10-15 days",
+      "fertilizer": "Balanced NPK; avoid excess nitrogen; ensure adequate potassium and calcium for cell wall strength",
+      "cultural_practice": "Remove and burn severely infected branches; disinfect pruning tools between cuts; avoid working on wet foliage",
+      "severity_note": "Spray preventively before monsoon/rainy season when bacterial spread is highest"
+    },
+    "Cutting Weevil": {
+      "cause": "Insect pest (Deporaus marginatus - mango leaf-cutting weevil)",
+      "pesticide": "Chlorpyrifos 20% EC (2.5 ml/L) or Quinalphos 25% EC (2 ml/L) sprayed on new flush",
+      "fertilizer": "Avoid excessive nitrogen which triggers flushes of tender new leaves that attract the weevil",
+      "cultural_practice": "Collect and destroy fallen cut leaf pieces (larvae develop inside them); time sprays with new flush emergence",
+      "severity_note": "Monitor closely during the vegetative flush period"
+    },
+    "Die Back": {
+      "cause": "Fungal (Botryodiplodia theobromae / Lasiodiplodia theobromae)",
+      "pesticide": "Carbendazim 50% WP (1 g/L) as a spray, plus paste application (Bordeaux paste) on cut wounds",
+      "fertilizer": "Improve overall tree vigor with balanced NPK plus micronutrients (zinc, boron); avoid water stress",
+      "cultural_practice": "Prune dead/dying twigs well below the affected area and seal cuts; avoid mechanical injury to bark",
+      "severity_note": "Address promptly - dieback can progress into main branches if untreated"
+    },
+    "Gall Midge": {
+      "cause": "Insect pest (Procontarinia mangiferae / Procontarinia matteiana)",
+      "pesticide": "Dimethoate 30% EC (2 ml/L) or Monocrotophos 36% SL sprayed at bud break and again after 15 days",
+      "fertilizer": "Balanced NPK; avoid over-fertilizing with nitrogen during flowering flush",
+      "cultural_practice": "Deep ploughing under the tree canopy to expose and kill soil-pupating larvae; remove and destroy infested leaves/flowers",
+      "severity_note": "Time sprays to coincide with new leaf/panicle emergence"
+    },
+    "Powdery Mildew": {
+      "cause": "Fungal (Oidium mangiferae)",
+      "pesticide": "Wettable sulphur (2-3 g/L) or Hexaconazole 5% EC (1 ml/L) sprayed at 10-day intervals, starting at flowering",
+      "fertilizer": "Balanced NPK; avoid excess nitrogen; ensure adequate potassium for disease resistance",
+      "cultural_practice": "Prune for better light penetration and airflow; avoid dense canopy and high humidity around flowers",
+      "severity_note": "Most damaging during flowering - can cause major fruit-set loss if untreated"
+    },
+    "Sooty Mould": {
+      "cause": "Fungal (Capnodium mangiferae), growing on honeydew secreted by sap-sucking insects (hoppers, mealybugs)",
+      "pesticide": "Control underlying insect first: Imidacloprid 17.8% SL (0.3 ml/L); wash mould off with a mild starch/soap solution spray",
+      "fertilizer": "Standard balanced NPK - mould itself doesn't need fertilizer intervention, controlling the insect vector matters more",
+      "cultural_practice": "Manage honeydew-producing pests (hoppers/mealybugs); improve airflow to reduce humidity",
+      "severity_note": "Treat the insect infestation, not just the visible black mould, or it will recur"
+    }
+  },
+  "neem": {
+    "Healthy": {
+      "cause": "No disease detected",
+      "pesticide": "None required",
+      "fertilizer": "Routine balanced NPK plus organic manure; neem is generally low-maintenance once established",
+      "cultural_practice": "Maintain normal watering and monitoring schedule",
+      "severity_note": "N/A"
+    },
+    "Alternaria": {
+      "cause": "Fungal (Alternaria spp. leaf spot)",
+      "pesticide": "Mancozeb 75% WP (2.5 g/L) or Chlorothalonil sprayed at 10-14 day intervals",
+      "fertilizer": "Balanced NPK with adequate potassium; avoid nitrogen excess",
+      "cultural_practice": "Remove and destroy fallen infected leaves; avoid overhead irrigation late in the day",
+      "severity_note": "Spray preventively during humid/rainy periods"
+    },
+    "Dieback": {
+      "cause": "Fungal (Botryodiplodia / Fusarium spp.)",
+      "pesticide": "Carbendazim 50% WP (1 g/L) spray plus wound-paste application on cut branches",
+      "fertilizer": "Improve vigor with balanced NPK and micronutrients; avoid drought stress",
+      "cultural_practice": "Prune affected branches below the visible damage and seal cuts; avoid mechanical wounding",
+      "severity_note": "Treat early - dieback spreads down the branch toward the trunk"
+    },
+    "Leaf blight": {
+      "cause": "Fungal (Cercospora / Curvularia leaf blight)",
+      "pesticide": "Copper oxychloride (3 g/L) or Mancozeb (2.5 g/L) sprayed at 10-15 day intervals",
+      "fertilizer": "Balanced NPK; ensure adequate potassium for resistance",
+      "cultural_practice": "Remove infected leaf litter; improve canopy spacing and airflow",
+      "severity_note": "Most severe in warm, humid conditions"
+    },
+    "Leaf miners": {
+      "cause": "Insect pest (leaf-mining moth/fly larvae tunneling inside leaf tissue)",
+      "pesticide": "Neem oil (5 ml/L, ironically effective here) or Spinosad 45% SC (0.3 ml/L)",
+      "fertilizer": "Standard balanced NPK; healthy vigorous growth tolerates minor mining damage better",
+      "cultural_practice": "Remove and destroy heavily mined leaves; encourage natural parasitoid wasps as biological control",
+      "severity_note": "Damage is mostly cosmetic unless infestation is severe"
+    },
+    "Leaf miners_Powdery mildew": {
+      "cause": "Combined insect (leaf miner) and fungal (powdery mildew) infestation",
+      "pesticide": "Wettable sulphur (2-3 g/L) for mildew + Neem oil (5 ml/L) or Spinosad for miners; apply separately, 5-7 days apart",
+      "fertilizer": "Balanced NPK; avoid nitrogen excess which favors both pest and mildew",
+      "cultural_practice": "Improve airflow/light penetration; remove affected leaves",
+      "severity_note": "Treat both issues - controlling only one allows the other to persist"
+    },
+    "Powdery mildew": {
+      "cause": "Fungal (Oidium/Erysiphe spp.)",
+      "pesticide": "Wettable sulphur (2-3 g/L) or Hexaconazole 5% EC (1 ml/L) at 10-day intervals",
+      "fertilizer": "Balanced NPK; avoid excess nitrogen",
+      "cultural_practice": "Prune for airflow; avoid excess humidity around foliage",
+      "severity_note": "Spray at first sign of white powdery patches before it spreads"
+    }
+  },
+  "tamarind": {
+    "Healthy": {
+      "cause": "No disease detected",
+      "pesticide": "None required",
+      "fertilizer": "Routine balanced NPK plus organic manure appropriate to tree age",
+      "cultural_practice": "Maintain normal watering and monitoring schedule",
+      "severity_note": "N/A"
+    },
+    "_PLACEHOLDER_leaf_spot": {
+      "cause": "TODO - fill in once you define your tamarind disease classes and confirm diagnosis with an agronomist",
+      "pesticide": "TODO",
+      "fertilizer": "TODO",
+      "cultural_practice": "TODO",
+      "severity_note": "TODO - common candidates for tamarind include Cercospora leaf spot, rust, and leaf blight; verify locally"
+    }
+  },
+  "_meta": {
+    "disclaimer": "These entries are compiled from general agronomy references to help you get started. Verify every pesticide name, dosage, and safety interval with your local agricultural extension office or a licensed agronomist before using this in a real advisory tool - regulations and recommended products vary by region.",
+    "class_names_must_match": "The keys under each plant (e.g. 'Anthracnose') must exactly match the folder names you use in data/<plant>/train/<ClassName>/, since predict.py uses the model's predicted class name to look up this table."
+  }
+}

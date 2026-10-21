@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+# models/*.pth  <-- unignored so Render has access to trained weights
+data/*/train/*/*.jpg
+data/*/val/*/*.jpg
+.DS_Store
